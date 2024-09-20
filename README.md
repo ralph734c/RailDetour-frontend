@@ -1,4 +1,4 @@
-# RailDetour
+# RailDetour-frontend
 
 A Fullstack Web Application focused on alerting folks if a train is crossing nearby and providing detours.
 
