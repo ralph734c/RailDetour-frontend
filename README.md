@@ -1,9 +1,20 @@
-# React + Vite
+# RailDetour
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Fullstack Web Application focused on alerting folks if a train is crossing nearby and providing detours.
 
-Currently, two official plugins are available:
+This repo contains the frontend of this project.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# RailDetour-frontend
+## Tech Stack
+
+**Frontend:**
+- JavaScript
+- React
+- Recoil
+- Vite
+- TailwindCSS
+- Supabase for Auth
+- Axios for communication with the backend
+
+## Related Repositories
+
+- [Backend Repository](https://github.com/ralph734c/RailDetour-backend)
